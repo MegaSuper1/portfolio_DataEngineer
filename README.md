@@ -28,6 +28,7 @@ Co-led the migration of enterprise BI assets from on-premise SAP HANA to the SAP
 
 **Tools:** Power BI, Power Platform, SQL Server, DAX Studio, Tabular Editor
 **Skills:** Row-Level Security (RLS), semantic modeling, DAX optimization, Power Query, governance standards
+
 Built secure and scalable HR analytics solutions, implementing dynamic RLS and centralized semantic models. Automated workflows with Power Platform tools and mentored team members on Power BI development best practices.
 
 **Impact:**
@@ -43,6 +44,7 @@ Built secure and scalable HR analytics solutions, implementing dynamic RLS and c
 
 **Tools:** Power Automate, Power BI REST APIs
 **Skills:** API integration, JSON parsing
+
 Created an automated usage reporting system using Power Automate and the Power BI REST API. Enabled detailed insights into report engagement.
 
 **Impact:**
@@ -56,6 +58,7 @@ Created an automated usage reporting system using Power Automate and the Power B
 
 **Tools:** SAP HANA, SAP BODS
 **Skills:** SQL, ETL performance tuning
+
 Refactored legacy ETL procedures to improve performance for Power BI reporting.
 
 **Impact:**
@@ -69,6 +72,7 @@ Refactored legacy ETL procedures to improve performance for Power BI reporting.
 
 **Tools:** SAP Data Services, Azure Data Lake, SAP HANA, Power BI
 **Skills:** API integration, curated datasets, full-stack BI
+
 Led development of an internal competitor analytics platform that ingested external datasets from FTP and APIs into a centralized model for pricing and performance comparison.
 
 **Impact:**
