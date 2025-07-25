@@ -3,8 +3,6 @@
 
 Welcome to my data portfolio! I’m a business intelligence and data engineering professional with over 15 years of experience turning complex data into meaningful, self-service insights. I specialize in Power BI, SAP HANA, Microsoft Fabric, and enterprise-scale data modeling. Below, you’ll find a selection of my most impactful projects, tools I use, and how I help teams make smarter decisions with data.
 
-🧠 Note: This portfolio layout was generated with the help of AI.  But the actual content is mine!
-I'm passionate about using AI tools to boost productivity, streamline documentation, and enhance creativity—this is just one example of how I'm experimenting with modern solutions to work smarter.
 ---
 
 ## 🔍 Featured Projects
