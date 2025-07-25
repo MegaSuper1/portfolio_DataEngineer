@@ -78,7 +78,7 @@ Led development of an internal competitor analytics platform that ingested exter
 
 ---
 
-> “Data becomes powerful when it’s not only accurate, but also accessible, visual, and actionable.”  
+> “The best data answers questions people care about.”  
 > — *Wallo Atkinson*
 
 ---
