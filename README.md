@@ -67,7 +67,7 @@ Led development of an internal competitor analytics platform that ingested exter
 ## 📄 Resume
 
 📎 [Download My Resume (PDF)](https://github.com/walloatkinson/portfolio/blob/main/Wallo_Atkinson_Resume.pdf)  
-*(Replace with actual link to your resume in the repo)*
+
 
 ---
 
@@ -78,6 +78,6 @@ Led development of an internal competitor analytics platform that ingested exter
 
 ---
 
-> “Data becomes powerful when it’s not only accurate, but also accessible, visual, and actionable.”  
+> “The best data is only as good as the questions it answers.”  
 — *Wallo Atkinson*
 
