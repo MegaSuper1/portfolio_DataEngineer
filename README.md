@@ -7,10 +7,10 @@ Welcome to my data portfolio! I’m a business intelligence and data engineering
 
 ## 🔍 Featured Projects
 
-### 📊 SAP Datasphere Migration – Proof of Concept  
-**Tools:** SAP Datasphere, SAP HANA, Power BI  
-**Skills:** Cloud architecture, data model replication, SQL tuning  
-Co-led a proof-of-concept to validate SAP Datasphere as a future-state platform. Focused on replicating semantic models, validating Power BI compatibility, and performance benchmarking.  
+### 📊 SAP Datasphere Cloud Migration 
+**Tools:** SAP Datasphere, SAP HANA, SAP BODS  
+**Skills:** Cloud architecture, data pipelines, data model replication, SQL tuning  
+Co-led project to migrate enterprise data from on-premise SAP Hana to SAP Datasphere cloud platform. Success defined as not merely replacing what was available in the legacy environment, but also enhancing our enterprise BI data analytics and landscape.  
 **Impact:** Laid the foundation for full migration strategy and enabled cross-functional model reuse.
 
 ---
