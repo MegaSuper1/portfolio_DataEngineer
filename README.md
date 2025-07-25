@@ -7,7 +7,7 @@ Welcome to my data portfolio! I’m a business intelligence and data engineering
 
 ## 🔍 Featured Projects
 
-### 📊 SAP Datasphere Migration
+### 📊 SAP Datasphere Migration – Proof of Concept  
 **Tools:** SAP Datasphere, SAP HANA, Power BI  
 **Skills:** Cloud architecture, data model replication, SQL tuning  
 Co-led a proof-of-concept to validate SAP Datasphere as a future-state platform. Focused on replicating semantic models, validating Power BI compatibility, and performance benchmarking.  
@@ -67,7 +67,7 @@ Led development of an internal competitor analytics platform that ingested exter
 ## 📄 Resume
 
 📎 [Download My Resume (PDF)](https://github.com/walloatkinson/portfolio/blob/main/Wallo_Atkinson_Resume.pdf)  
-
+*(Replace with actual link to your resume in the repo)*
 
 ---
 
@@ -78,6 +78,11 @@ Led development of an internal competitor analytics platform that ingested exter
 
 ---
 
-> “The best data is only as good as the questions it answers.”  
-— *Wallo Atkinson*
+> “Data becomes powerful when it’s not only accurate, but also accessible, visual, and actionable.”  
+> — *Wallo Atkinson*
+
+---
+
+🧠 *Note: This portfolio layout was generated with the help of AI.  But the content is all mine!*  
+I'm passionate about using AI tools to boost productivity, streamline documentation, and enhance creativity—this is just one example of how I'm experimenting with modern solutions to work smarter.
 
