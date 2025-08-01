@@ -5,7 +5,7 @@
 **Tools:** SAP Datasphere, SAP HANA, SAP BODS, Power BI  
 **Skills:** Cloud architecture, data pipeline design, semantic model replication, SQL optimization, project management
 
-![SAP Datasphere Architecture Diagram](./sap-datasphere-architecture.png)
+<img src="./sap-datasphere-architecture.png" alt="SAP Datasphere Architecture Diagram" width="600"/>
 
 ## 🔧 Project Overview
 
