@@ -1,39 +1,29 @@
+
 # 👋 Hi, I'm Wallo Atkinson
 
 **Senior Data Engineer | Power BI Expert | SAP HANA & Microsoft Fabric | Scalable BI & Automation**
 
-Welcome to my data portfolio summary page! I’m a business intelligence and data engineering professional with over 15 years of experience turning complex data into meaningful insights. I specialize in Power BI, SAP HANA, Microsoft Fabric, and enterprise-scale data modeling. Below, you’ll find a selection of some of my most impactful projects, tools I use, and how I help teams make smarter decisions with data.
+Welcome to my data portfolio! I’m a business intelligence and data engineering professional with over 15 years of experience turning complex data into meaningful insights. I specialize in Power BI, SAP HANA, Microsoft Fabric, and enterprise-scale data modeling. Below, you’ll find a selection of some of my most impactful projects, tools I use, and how I help teams make smarter decisions with data.
 
 ---
 
 ## 🔍 Featured Projects
 
-### 📊 SAP Datasphere Cloud Migration *(Tessco Enterprises)*  
+### 📊 SAP Datasphere Cloud Migration *(Tessco Enterprises)*
 **Tools:** SAP Datasphere, SAP HANA, SAP BODS  
 **Skills:** Cloud architecture, data pipeline design, semantic model replication, SQL optimization, project management  
-Co-led the migration of enterprise BI assets from on-premise SAP HANA to the SAP Datasphere cloud platform. In addition to replicating key models and data pipelines, I redesigned parts of the architecture to improve scalability, semantic reuse, and self-service enablement.
+Co-led the migration of enterprise BI assets from on-premise SAP HANA to the SAP Datasphere cloud platform. In addition to replicating key models and data pipelines, I redesigned parts of the architecture to improve scalability, semantic reuse, and self-service enablement.  
+🔗 [View full project details ➜](./sap-datasphere-migration/README.md)
 
 **Impact:**
 - Established a future-ready architecture for enterprise analytics  
 - Improved pipeline performance and model consistency across platforms  
 - Enabled cross-functional teams to adopt a governed, cloud-based semantic layer  
 - Streamlined the enterprise BI landscape by reducing tool sprawl and centralizing reporting models in SAP Datasphere  
-- 🔗 [View full project details ➜](./sap-datasphere-migration/README.md)
 
 ---
 
-### ⚙️ ETL Pipeline Optimization in SAP HANA *(Tessco Enterprises)*  
-**Tools:** SAP HANA, SAP BODS, SAP CMC  
-**Skills:** SQL, ETL performance tuning  
-Refactored legacy ETL procedures to improve data pipeline efficiency, reduce transformation overhead, and increase overall system reliability and refresh stability across critical reporting layers.
-
-**Impact:**
-- Reduced total ETL runtime from 4.5 hours to under 1 hour  
-- Improved reliability for critical business analytics by reducing refresh failure rates and stabilizing data availability through optimized ETL execution and monitoring  
-
----
-
-### 🧑‍🧹 Enterprise HR Analytics with Power BI *(Ferguson Enterprises)*  
+### 🧑‍🧹 Enterprise HR Analytics with Power BI *(Ferguson Enterprises)*
 **Tools:** Power BI, Power Platform, SQL Server, DAX Studio, Tabular Editor  
 **Skills:** Row-Level Security (RLS), semantic modeling, DAX optimization, Power Query, governance standards  
 Built secure and scalable HR analytics solutions, implementing dynamic RLS and centralized semantic models. Automated workflows with Power Platform tools and mentored team members on Power BI development best practices.
@@ -46,18 +36,7 @@ Built secure and scalable HR analytics solutions, implementing dynamic RLS and c
 
 ---
 
-### 📈 Power BI Tenant Level Usage Monitoring Automation *(Nature’s Way)*  
-**Tools:** Power Automate, Power BI REST APIs  
-**Skills:** API integration, JSON parsing  
-Created an automated usage reporting system using Power Automate and the Power BI REST API. Enabled detailed insights into report engagement.
-
-**Impact:**
-- Helped deprecate unused reports  
-- Improved visibility into report adoption and training ROI  
-
----
-
-### 🏷️ Competitor Analytics Platform *(Nature’s Way)*  
+### 🏷️ Competitor Analytics Platform *(Nature’s Way)*
 **Tools:** SAP Data Services, Azure Data Lake, SAP HANA  
 **Skills:** API integration, curated datasets, full-stack BI, data modeling  
 Managed the enterprise’s largest and most complex dataset, optimizing data flows and semantic models to maintain performance, scalability, and reliability under high-volume analytics workloads.  
@@ -70,7 +49,7 @@ Led development of an internal competitor analytics platform that ingested exter
 
 ---
 
-### 🧮 Legacy Report Automation and BI Modernization *(FedEx Supply Chain / Genco Logistics)*  
+### 🧮 Legacy Report Automation and BI Modernization *(FedEx Supply Chain / Genco Logistics)*
 **Tools:** Microsoft Access, Excel VBA, QlikView, Postman  
 **Skills:** Process automation, legacy system migration, stakeholder collaboration, cost savings analysis, data modeling  
 Led initiatives to automate legacy operational reporting and modernize business intelligence delivery. Migrated Excel-based reports into QlikView dashboards, increasing visibility and reducing manual effort.
