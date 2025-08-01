@@ -2,7 +2,7 @@
 
 **Senior Data Engineer | Power BI Expert | SAP HANA & Microsoft Fabric | Scalable BI & Automation**
 
-Welcome to my data portfolio! I’m a business intelligence and data engineering professional with over 15 years of experience turning complex data into meaningful insights. I specialize in Power BI, SAP HANA, Microsoft Fabric, and enterprise-scale data modeling. Below, you’ll find a selection of some of my most impactful projects, tools I use, and how I help teams make smarter decisions with data.
+Welcome to my data portfolio summary page! I’m a business intelligence and data engineering professional with over 15 years of experience turning complex data into meaningful insights. I specialize in Power BI, SAP HANA, Microsoft Fabric, and enterprise-scale data modeling. Below, you’ll find a selection of some of my most impactful projects, tools I use, and how I help teams make smarter decisions with data.
 
 ---
 
