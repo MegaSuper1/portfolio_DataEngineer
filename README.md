@@ -8,7 +8,7 @@ Welcome to my data portfolio! I’m a business intelligence and data engineering
 
 ## 🔍 Featured Projects
 
-### 📊 SAP Datasphere Cloud Migration *(Tessco Enterprises)*
+### 📊 SAP Datasphere Cloud Migration *(Tessco Enterprises)*  
 **Tools:** SAP Datasphere, SAP HANA, SAP BODS  
 **Skills:** Cloud architecture, data pipeline design, semantic model replication, SQL optimization, project management  
 Co-led the migration of enterprise BI assets from on-premise SAP HANA to the SAP Datasphere cloud platform. In addition to replicating key models and data pipelines, I redesigned parts of the architecture to improve scalability, semantic reuse, and self-service enablement.
@@ -18,10 +18,11 @@ Co-led the migration of enterprise BI assets from on-premise SAP HANA to the SAP
 - Improved pipeline performance and model consistency across platforms  
 - Enabled cross-functional teams to adopt a governed, cloud-based semantic layer  
 - Streamlined the enterprise BI landscape by reducing tool sprawl and centralizing reporting models in SAP Datasphere  
+- 🔗 [View full project details ➜](./sap-datasphere-migration/README.md)
 
 ---
 
-### ⚙️ ETL Pipeline Optimization in SAP HANA *(Tessco Enterprises)*
+### ⚙️ ETL Pipeline Optimization in SAP HANA *(Tessco Enterprises)*  
 **Tools:** SAP HANA, SAP BODS, SAP CMC  
 **Skills:** SQL, ETL performance tuning  
 Refactored legacy ETL procedures to improve data pipeline efficiency, reduce transformation overhead, and increase overall system reliability and refresh stability across critical reporting layers.
@@ -32,7 +33,7 @@ Refactored legacy ETL procedures to improve data pipeline efficiency, reduce tra
 
 ---
 
-### 🧑‍🧹 Enterprise HR Analytics with Power BI *(Ferguson Enterprises)*
+### 🧑‍🧹 Enterprise HR Analytics with Power BI *(Ferguson Enterprises)*  
 **Tools:** Power BI, Power Platform, SQL Server, DAX Studio, Tabular Editor  
 **Skills:** Row-Level Security (RLS), semantic modeling, DAX optimization, Power Query, governance standards  
 Built secure and scalable HR analytics solutions, implementing dynamic RLS and centralized semantic models. Automated workflows with Power Platform tools and mentored team members on Power BI development best practices.
@@ -45,7 +46,7 @@ Built secure and scalable HR analytics solutions, implementing dynamic RLS and c
 
 ---
 
-### 📈 Power BI Tenant Level Usage Monitoring Automation *(Nature’s Way)*
+### 📈 Power BI Tenant Level Usage Monitoring Automation *(Nature’s Way)*  
 **Tools:** Power Automate, Power BI REST APIs  
 **Skills:** API integration, JSON parsing  
 Created an automated usage reporting system using Power Automate and the Power BI REST API. Enabled detailed insights into report engagement.
@@ -56,7 +57,7 @@ Created an automated usage reporting system using Power Automate and the Power B
 
 ---
 
-### 🏷️ Competitor Analytics Platform *(Nature’s Way)*
+### 🏷️ Competitor Analytics Platform *(Nature’s Way)*  
 **Tools:** SAP Data Services, Azure Data Lake, SAP HANA  
 **Skills:** API integration, curated datasets, full-stack BI, data modeling  
 Managed the enterprise’s largest and most complex dataset, optimizing data flows and semantic models to maintain performance, scalability, and reliability under high-volume analytics workloads.  
@@ -69,7 +70,7 @@ Led development of an internal competitor analytics platform that ingested exter
 
 ---
 
-### 🧮 Legacy Report Automation and BI Modernization *(FedEx Supply Chain / Genco Logistics)*
+### 🧮 Legacy Report Automation and BI Modernization *(FedEx Supply Chain / Genco Logistics)*  
 **Tools:** Microsoft Access, Excel VBA, QlikView, Postman  
 **Skills:** Process automation, legacy system migration, stakeholder collaboration, cost savings analysis, data modeling  
 Led initiatives to automate legacy operational reporting and modernize business intelligence delivery. Migrated Excel-based reports into QlikView dashboards, increasing visibility and reducing manual effort.
@@ -108,5 +109,3 @@ Led initiatives to automate legacy operational reporting and modernize business 
 
 > “Data only has value when it is used to answer questions people care about.”  
 > — *Wallo Atkinson*
-
----
