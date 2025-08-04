@@ -28,6 +28,8 @@ Co-led the migration of enterprise BI assets from on-premise SAP HANA to the SAP
 **Skills:** Row-Level Security (RLS), semantic modeling, DAX optimization, Power Query, governance standards  
 Built secure and scalable HR analytics solutions, implementing dynamic RLS and centralized semantic models. Automated workflows with Power Platform tools and mentored team members on Power BI development best practices.
 
+🔗 [View full project details ➜](./enterprise_hr_analytics/README.md)
+
 **Impact:**
 - Designed and deployed centralized semantic models to unify HR reporting across departments  
 - Eliminated manual data preparation by automating workflows with Power Automate and structured data pipelines  
