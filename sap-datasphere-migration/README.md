@@ -9,7 +9,7 @@
 
 ## 🔧 Project Overview
 
-Tessco Enterprises initiated this migration to modernize its enterprise reporting stack, improve scalability, reduce ETL overhead, and enable governed self-service analytics across business domains such as finance, operations, and sales.
+Tessco Enterprises initiated this migration to modernize its enterprise reporting stack, improve scalability, reduce ETL overhead, and enable governed self-service analytics across business domains such as finance, operations, and sales.  Cloud replacement for SAP Hana Sidecar and SAP DataServices (BODS).
 
 This project involved leading the migration of key enterprise data and semantic models from an on-premise SAP HANA environment to the SAP Datasphere cloud platform. The effort was not simply a lift-and-shift exercise — it was designed to modernize and enhance the enterprise BI architecture, promote reuse, and enable cloud-native scalability.
 
