@@ -24,7 +24,7 @@ I led the design and implementation of a robust Power BI solution that integrate
 - **Utilized DAX** to generate measures from fact-less fact tables supporting advanced HR calculations
 - **Collaborated cross-functionally** with HR, IT, and operational stakeholders to define goals, validate logic, and iterate on user feedback
 
-  <img src="./sap-datasphere-architecture.png" alt="SAP Datasphere Architecture Diagram" width="500"/>
+  <img src="./hr_pbi_image.png" alt="HR Analytics Data Architecture" width="500"/>
 
 ---
 
