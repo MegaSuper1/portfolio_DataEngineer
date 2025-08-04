@@ -17,14 +17,15 @@ I led the design and implementation of a robust Power BI solution that integrate
 
 ## 📌 Responsibilities
 
+-**Redesigned the data refresh architecture** by leveraging live connections between dataflows, semantic models, and reports to improve performance and reduce duplication
+
+<img src="./hr_pbi_image.png" alt="HR Analytics Data Architecture" width="600"/>
+
 - **Architected reusable semantic models** combining payroll, recruiting, candidate, associate, demographic, and position data
 - **Developed a Power BI theme JSON template** to enforce branding and accelerate dashboard development
 - **Implemented auditable, reusable row-level security (RLS)** to restrict data access based on user roles and reporting hierarchy
 - **Utilized DAX** to generate measures from fact-less fact tables supporting advanced HR calculations
 - **Collaborated cross-functionally** with HR, IT, and operational stakeholders to define goals, validate logic, and iterate on user feedback
-- **Redesigned the data refresh architecture** by leveraging live connections between dataflows, semantic models, and reports to improve performance and reduce duplication
-
-  <img src="./hr_pbi_image.png" alt="HR Analytics Data Architecture" width="600"/>
 
 ---
 
