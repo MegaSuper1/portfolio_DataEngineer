@@ -51,7 +51,7 @@ Led development of an internal competitor analytics platform that ingested exter
 
 ---
 
-### 🧮 Legacy Report Automation and BI Modernization *(FedEx Supply Chain / Genco Logistics)*
+### 🧮 Legacy Report Automation *(FedEx Supply Chain / Genco Logistics)*
 **Tools:** Microsoft Access, Excel VBA, QlikView, Postman  
 **Skills:** Process automation, legacy system migration, stakeholder collaboration, cost savings analysis, data modeling  
 Led initiatives to automate legacy operational reporting and modernize business intelligence delivery. Migrated Excel-based reports into QlikView dashboards, increasing visibility and reducing manual effort.
