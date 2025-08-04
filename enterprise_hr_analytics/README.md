@@ -17,7 +17,7 @@ I led the design and implementation of a robust Power BI solution that integrate
 
 ## 📌 Responsibilities
 
--**Redesigned the data refresh architecture** by leveraging live connections between dataflows, semantic models, and reports to improve performance and reduce duplication
+- **Redesigned the data refresh architecture** by leveraging live connections between dataflows, semantic models, and reports to improve performance and reduce duplication
 
 <img src="./hr_pbi_image.png" alt="HR Analytics Data Architecture" width="600"/>
 
