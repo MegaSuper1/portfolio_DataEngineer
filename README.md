@@ -56,6 +56,8 @@ Led development of an internal competitor analytics platform that ingested exter
 **Skills:** Process automation, legacy system migration, stakeholder collaboration, cost savings analysis, data modeling  
 Led initiatives to automate legacy operational reporting and modernize business intelligence delivery. Migrated Excel-based reports into QlikView dashboards, increasing visibility and reducing manual effort.
 
+🔗 [View full project details ➜](./legacy-report-automation/README.md)
+
 **Impact:**
 - Automated manual reporting processes using Access and VBA, saving over $200K in annual labor and operational costs  
 - Implemented QlikView enterprise reporting to deliver enhanced interactivity, analysis, and visualizations beyond the limitations of Excel-based reporting  
