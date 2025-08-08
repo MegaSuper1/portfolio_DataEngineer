@@ -15,11 +15,7 @@ Welcome to my data portfolio! I’m a business intelligence and data engineering
 
 ---
 
-## 📣 Testimonials  
 
-> 💬 *"During my career leading Analytics and Business Intelligence teams at Schneider National, FedEx and Nature’s Way, one of the most talented individuals I worked with was **Wallo Atkinson**. One of my first objectives at FedEx and NW was to recruit Wallo to join us. I knew he would play a key role in our success. And he did, day in and day out. We led enterprise-wide initiatives with Executive Team support to implement self-serve analytics including major database and infrastructure upgrades. Wallo’s contributions resulted in our team being recognized as **Best of Class** in analytics across all of FedEx, and a robust self-service analytics program at NW where he was viewed as the **go-to resource** by senior IT leadership for multiple special projects."*  
-> — **Mike Boucher, Senior Analytics Manager**
->
 ## 🔍 Featured Projects
 
 ### 📊 SAP Datasphere Cloud Migration *(Tessco Enterprises)*
