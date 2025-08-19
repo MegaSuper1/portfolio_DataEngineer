@@ -63,6 +63,25 @@ Led development of an internal competitor analytics platform that ingested exter
 
 ---
 
+### ⚡ Power BI Training & Best Practices Enablement *(Nature’s Way)*
+**Tools:** Power BI, DAX, Power Query, Power BI Service, Power BI Desktop  
+**Skills:** Mentorship, advanced DAX, Power Query optimization, governance, best practices, template, data modeling  
+To support enterprise adoption of Power BI, I developed and delivered structured training sessions for developers and analysts across business units.  The goal was to accelerate the team’s ability to deliver scalable, high-performing Power BI solutions and establish consistency in report development and governance.  
+I developed Power BI report templates, best practice documents, data modeling design and report examples.  
+
+
+🔗 [View full project details ➜](./power-bi-standards/README.md)
+
+**Impact:**
+
+- Increased team capability to deliver **enterprise-grade Power BI reports** independently  
+- Reduced report development time by enabling developers with reusable models and templates  
+- Improved consistency and performance by embedding **best practices into workflows**  
+- Enhanced collaboration through shared knowledge and standardized approaches
+
+  
+---
+
 ### 🧮 Legacy Report Automation *(FedEx Supply Chain / Genco Logistics)*
 **Tools:** Microsoft Access, Excel VBA, QlikView, Postman  
 **Skills:** Process automation, legacy system migration, stakeholder collaboration, cost savings analysis, data modeling  
