@@ -11,6 +11,7 @@
 To support enterprise adoption of Power BI, I developed and delivered structured training sessions for developers and analysts across business units. The goal was to accelerate the team’s ability to deliver scalable, high-performing Power BI solutions and establish consistency in report development and governance.  
 
 This is a screenshot recreation of our most basic template for all of our Power BI development.  I created this template with the goal of providing some visual consistency from report to report, but at the same time allowing developers to the freedom to implement what works in their report.  Please note the tabs.  I recommend an FAQ tab to provide any notes that might help someone consuming the report, understand the report and address any unique things about it.  The best practice tab contains some best practice guidelines like font size, visual placement, etc.  This tab would be deleted when published.
+
 <img src="./pbi_template_mockup.png" alt="PBI Template Mockup" width="600"/>
 
 ---
